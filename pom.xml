@@ -5,7 +5,7 @@
 	<groupId>com.datica</groupId>
 	<artifactId>simple-war</artifactId>
 	<packaging>war</packaging>
-	<version>0.1</version>
+	<version>LATEST</version>
 	<name>A simple WAR file</name>
 
 	<properties>
